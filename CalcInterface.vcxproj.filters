@@ -27,6 +27,9 @@
     <ClInclude Include="libs\Solution\Solvable.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="src\Numeric.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="libs\Solution\ExistenceType.cpp">
