@@ -108,6 +108,7 @@
   <ItemGroup>
     <ClCompile Include="libs\Solution\ExistenceType.cpp" />
     <ClCompile Include="libs\Solution\Solution.cpp" />
+    <ClCompile Include="src\Numeric.cpp" />
     <ClCompile Include="src\Test.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
